@@ -1,3 +1,4 @@
+
 Package: معرف الاداة 
 Version: الاصدار
 Architecture: iphoneos-arm
@@ -15,4 +16,17 @@ Name: اسم  الاداه
 
 
 
-Package: com.ryleyangus.libertylite.beta_0.2.12_iphoneos-arm.deb
+Package: com.ryleyangus.libertylite.beta
+Version:0.2.12
+Architecture: iphoneos-arm
+Maintainer: rakan 
+Depends:  mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
+Filename:  com.ryleyangus.libertylite.beta_0.2.12_iphoneos-arm.deb
+Size: 82438
+MD5sum: 44091a36f7edb5d4b8f47c985de98f59
+SHA1: 263d10fe8786f401c176f1922f5066e4f97efbb3
+SHA256: e7bf332a7d227c9a4fcb4a705f0e89074236ac8ed8273989cba6f0272b11714c
+Section: Tweaks
+Depiction:  
+Name: libertylite (beta)
